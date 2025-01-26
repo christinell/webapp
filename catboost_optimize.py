@@ -93,7 +93,7 @@ def optimize_parameters(data_train, max_evals=20):
                             space=hyperopt_space,
                             algo=tpe.suggest,
                             max_evals=max_evals,
-                            trials=trials,
-                            rstate=np.random.default_rng(3008))
+                            trials=trials
+                            )
 
     return base_params, best_hyperparams, trials
