@@ -14,4 +14,5 @@ A Streamlit-based web application for hypertension risk prediction using machine
 - 📊 Real-time prediction results display
 - 📱 Mobile-optimized interface
 
-
+## Reference
+Cheng Y, Gu K, Ji W, Hu Z, Yang Y, Zhou Y. Two-Year Hypertension Incidence Risk Prediction in Populations in the Desert Regions of Northwest China: Prospective Cohort Study. J Med Internet Res 2025;27:e68442. URL: https://www.jmir.org/2025/1/e68442. DOI: 10.2196/68442
